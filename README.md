@@ -1,4 +1,4 @@
-🚀 Tutor Git: Git & GitHub Hands-On Lab
+#🚀 Tutor Git: Git & GitHub Hands-On Lab
 Welcome to your first Git exercise! In this lab, you will learn the fundamental workflow used by modern software engineers to contribute code: Forking, Cloning, Staging, Committing, Pushing, and opening a Pull Request (PR).
 
 Follow the step-by-step instructions below to add your profile to our class roster.
